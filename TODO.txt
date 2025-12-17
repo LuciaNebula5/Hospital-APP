@@ -1,0 +1,28 @@
+VERSION 1.0
+- Hacer que los cambios del usuario se apliquen
+- Mejorar la consulta ventana
+- Nombre del hospital modificable por el usuario
+
+- Errores recogidos en un archivo
+- Textos recogidos en un archivo
+
+VERSION 2.0
+- Que se pueda subir y bajar en las imágenes con el ratón
+- Guardar registro de los pacientes despues de hacer revisión
+- Añadir botón de creación de día aletorio
+- creación de un pdf para guardar datos de pacientes
+- recetar medicina al paciente
+
+VERSION 3.0
+- Mejorar creación de paciente (añadir foto, identificación)
+- Inicio de sesión para doctores
+
+
+IDEAS-------------------
+- Estado del paciente
+- opción de descanso de médico
+- añadir hora a la app
+
+
+ELIMINADOS--------------------
+- messagebox (línea 327)

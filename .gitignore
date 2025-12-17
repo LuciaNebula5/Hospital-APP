@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# VS Code
+.vscode/
+
+# Archivos de texto
+*.txt
